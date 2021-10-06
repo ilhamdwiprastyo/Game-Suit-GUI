@@ -5,4 +5,4 @@ Game suit berupa gunting, batu, kertas yang terdiri dari 3 tingkat kesulitan yai
 Berikut ini adalah tampilan dari game rock, paper, scissors.
 
 ## Display Awal Masuk Game
-(display_awal.png)
+!(display_awal.png)
